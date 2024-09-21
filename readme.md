@@ -1,4 +1,4 @@
-<img src="https://github.com/eofferupp/tinder-automation/raw/main/images/cover.png" alt="Tinder Automation Cover" />
+<img src="https://github.com/eofferupp/tinder-automation/raw/main/images/cover (3).png" alt="Tinder Automation Cover" />
 
 # 💖 Tinder Automation Tool
 
